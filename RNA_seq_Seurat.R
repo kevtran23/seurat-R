@@ -1,4 +1,5 @@
 #R code for analysis of single-cell RNA seq data
+#Uses the Seurat package
 
 #load libraries
 library(Seurat)
